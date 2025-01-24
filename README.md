@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=slice&color=white&height=400&section=header&text=Welcome%Everyone!&fontSize=15" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=black&height=400&section=header&text=Welcome%Everyone!&fontSize=15" />
 <!--
 **ppid0930/ppid0930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
