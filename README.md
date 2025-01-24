@@ -22,6 +22,12 @@
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 </details>
+
+## 💬Contact
+
+Email : ppid0930@naver.com
+Phone%number : 010-2279-6064
+
 <!--
 **ppid0930/ppid0930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
