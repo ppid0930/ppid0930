@@ -25,8 +25,10 @@
 
 ## 💬Contact
 
- - 📧 Email : **ppid0930@naver.com**
- - 📫 Blog : [[나만의 프로젝트 이야기] (https://myownproject.tistory.com/)]
+- 📧 Email : **ppid0930@naver.com**
+- 📫 Blog : [[나만의 프로젝트 이야기] (https://myownproject.tistory.com/)]
+
+---
 
 <!--
 **ppid0930/ppid0930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
