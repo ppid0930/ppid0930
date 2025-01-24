@@ -25,8 +25,8 @@
 
 ## 💬Contact
 
-Email : ppid0930@naver.com
-Phone%number : 010-2279-6064
+ - Email : ppid0930@naver.com
+ - Phone number : 010-2279-6064
 
 <!--
 **ppid0930/ppid0930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
