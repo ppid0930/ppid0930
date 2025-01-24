@@ -26,7 +26,7 @@
 ## 💬Contact
 
 - 📧 Email : **ppid0930@naver.com**
-- 📫 Blog : [[나만의 프로젝트 이야기] (https://myownproject.tistory.com/)]
+- 📫 Blog : https://myownproject.tistory.com/
 
 ---
 
